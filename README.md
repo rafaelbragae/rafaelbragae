@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Rafael Braga
 
-- 🌱 Atualmente estudo ciências da computação na UNIFESP
+- 🌱 Atualmente curso o Bacharelado em Ciências da Computação na UNIFESP 
 - Eu adoro computação, e gosto de conhecer cada vez mais linguagens de programação e as frequentes evoluções das tecnologias. Gosto de programar tanto back-end, como front-end.
 
 <div align="center">
